@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutMeFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="กล้วยทอด (กล้วยแขก)	1 ชิ้น	50 กิโลแคลอรี่"
+            android:textSize="@dimen/h2"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="เกี๊ยวปลาน้ำ	1 ถ้วย	165 กิโลแคลอรี่"
+            android:textSize="@dimen/h2"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="ไก่ทอด	1 น่อง	345 กิโลแคลอรี่"
+            android:textSize="@dimen/h2"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="ขนมจีนแกงเขียวหวานไก่	1 ชาม	594 กิโลแคลอรี่"
+            android:textSize="@dimen/h2"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="ข้าวเหนียวหมูสวรรค์	1 ชุด	480 กิโลแคลอรี่"
+            android:textSize="@dimen/h2"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="โจ๊กหมูตับ ใส่ไข่ลวก	1 ถ้วย	230 กิโลแคลอรี่"
+            android:textSize="@dimen/h2"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="ต้มผักกาดดองซี่โครงหมู	1 ถ้วย	90 กิโลแคลอรี่"
+            android:textSize="@dimen/h2"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+
+</FrameLayout>
